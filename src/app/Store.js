@@ -1,0 +1,1 @@
+// se encarga de almacenar alchivo datos de local storage

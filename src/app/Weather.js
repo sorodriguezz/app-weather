@@ -1,0 +1,1 @@
+// Se encarga de pedir los datos de la api de clima

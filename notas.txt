@@ -1,0 +1,16 @@
+- instalar nodejs node init -y
+
+- instalar webpack con los modulos:
+npm i webpack webpack-cli style-loader css-loader webpack-dev-server html-webpack-plugin
+Para instalar webpack necesita un webpack-cli, para correr estilos css necesita css-loader y style-loader, para incluir el
+index.html dentro del webpack se usa html-webpack-plugin
+
+-https://bootswatch.com/ para usar bootstrap pero con diferente apariencia
+-https://openweathermap.org/ api del clima
+- para usar webpack hay que crear un webpack.config.js en la raiz del proyecto
+
+- con webpack -p se convierte en produccion, estara el package.json en scripts
+- con "npm run build" se ejecutan los comandos en scripts
+- ejecutar server de desarollo "npm run dev" ponerlo en package.jason
+
+- ver min 33
