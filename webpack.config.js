@@ -11,7 +11,7 @@ module.exports = {
     },
     // especificar servidor de desarrollo
     devServer: {
-        port: 4300
+        port: 8081
     },
     module: {
         rules: [{

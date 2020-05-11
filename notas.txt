@@ -7,10 +7,10 @@ index.html dentro del webpack se usa html-webpack-plugin
 
 -https://bootswatch.com/ para usar bootstrap pero con diferente apariencia
 -https://openweathermap.org/ api del clima
+-https://uigradients.com/#Frozen para hacer colores gradiantes
 - para usar webpack hay que crear un webpack.config.js en la raiz del proyecto
 
 - con webpack -p se convierte en produccion, estara el package.json en scripts
 - con "npm run build" se ejecutan los comandos en scripts
 - ejecutar server de desarollo "npm run dev" ponerlo en package.jason
 
-- ver min 33
